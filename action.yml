@@ -1,0 +1,9 @@
+name: 'MkDocs builder'
+description: 'Made for my personal site and any other based on MkDocs'
+author: 'Moonpath'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'external-link'
+  color: 'red'
